@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: DevelopTheWeb
+email: developtheweb@protonmail.com
+url: developtheweb.github.io
+description: "Web Developer, Graphic Artist and User Experiance Designer."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+meta_author: Milanese Steven
 
 # Google webmaster tools
 google_verify:
@@ -32,9 +32,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
+  copyright: Steven Milanese
+  location: United States
+  social: Lets Connect
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1317 Edgewater Dr 2313,
+  - line: Orlando FL 32804
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'DevelopTheWeb theme built on <a href="http://startbootstrap.com">Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
