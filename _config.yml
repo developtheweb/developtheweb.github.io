@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Steven Milanese
-  location: Mailing Address
+  location: Contact Info
   social: Lets Connect
   credits: Credits
 
@@ -50,6 +50,7 @@ social:
 address:
   - line: 1317 Edgewater Dr 2313,
   - line: Orlando FL 32804
+  - line: (321)474-1021
 
 # Credits content
 credits: 'DevelopTheWeb theme built on <a href="http://startbootstrap.com">Bootstrap</a>.'
