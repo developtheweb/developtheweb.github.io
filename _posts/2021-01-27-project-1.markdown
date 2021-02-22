@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2021-01-27
+img: cabin.png
+alt: image-alt
+project-date: January 2021
+client: Tactful Elite Security Solutions
+category: Web Development
+description: <a href="https://tess.global" class="btn btn-lg btn-outline">
+                        <i class="fa fa-download"></i> Download vCard
+                    </a>
+---
