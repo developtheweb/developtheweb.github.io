@@ -53,7 +53,7 @@ address:
   - line: (321)474-1021
 
 # Credits content
-credits: 'DevelopTheWeb theme built on <a href="http://startbootstrap.com">Bootstrap</a>.'
+credits: 'DevelopTheWeb theme built using <a href="https://getbootstrap.com/">Bootstrap</a> and <a href="https://github.com/">github</a>.'
 
 # Build settings
 markdown: kramdown

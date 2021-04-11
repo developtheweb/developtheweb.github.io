@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: steven-milanese.png
+date: 2015-12-01
+img: accurate-defense-group.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: December 2015
+client: StevenMilanese.com
+category: Vector Logo / Graphic Design
+description: Accurate Defense Group, Rockledge Florida
 ---

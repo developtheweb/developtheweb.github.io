@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: tradewind-builders.png
+date: 2021-04-01
+img: steven-milanese.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Trade Wind Builders
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2021
+client: Steven Milanese Marketing
+category: Vector Logo / Graphic Design
+description: Steven Milanese.com
 ---
