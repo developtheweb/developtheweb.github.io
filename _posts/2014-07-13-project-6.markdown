@@ -5,7 +5,7 @@ date: 2008-01-01
 img: tradewind-builders.png
 alt: image-alt
 project-date: January 2008
-client: Trade Wind Builders
+client: <a href="https://tradewind.builders">Trade Wind Builders</a>
 category: Web Development
 description: Trade Wind Builders - Florida's Premier Custom Home Builders
 ---

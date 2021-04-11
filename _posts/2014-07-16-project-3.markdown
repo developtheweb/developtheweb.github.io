@@ -5,7 +5,7 @@ date: 2021-01-01
 img: tess-global.png
 alt: image-alt
 project-date: January 2021
-client: Tactful Elite Security Solutions
+client: <a href="https://tess.global">Tactful Elite Security Solutions</a>
 category: Web Development
 description: Tactful Elite Security Solutions is a global security services provider.
 ---

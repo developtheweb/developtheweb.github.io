@@ -5,7 +5,7 @@ date: 2015-12-01
 img: accurate-defense-group.png
 alt: image-alt
 project-date: December 2015
-client: StevenMilanese.com
+client: Accurate Defense Group
 category: Vector Logo / Graphic Design
 description: Accurate Defense Group, Rockledge Florida
 ---

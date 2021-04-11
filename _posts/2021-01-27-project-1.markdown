@@ -5,7 +5,7 @@ date: 2021-04-01
 img: poolcare-services.png
 alt: image-alt
 project-date: April 2021
-client: Island Leisure
+client: <a href="https://poolcare.services">Island Leisure</a>
 category: Web Development
 description: Island Leisure Pool & Spa - Satellite Beach, Florida. 
 ---
