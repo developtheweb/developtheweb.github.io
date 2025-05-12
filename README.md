@@ -1,32 +1,74 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
+# Steven Milanese - Portfolio Site Redirect
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+This repository has been deprecated and now serves as a redirect to the new [stevenmilanese.com](https://stevenmilanese.com) website.
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
+<div align="center">
+  <a href="https://stevenmilanese.com">
+    <img src="https://stevenmilanese.com/StevenMilanese-full-logo.png" alt="Steven Milanese Logo" width="250px"/>
+  </a>
+  <p><em>Systems Alchemist | Physicist | Developer | Reverend</em></p>
+  
+  <p>
+    <a href="https://stevenmilanese.com">
+      <img src="https://img.shields.io/badge/Website-stevenmilanese.com-brightgreen?style=flat-square" alt="Website"/>
+    </a>
+    <a href="https://nextjs.org/">
+      <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js" alt="Next.js"/>
+    </a>
+    <a href="https://threejs.org/">
+      <img src="https://img.shields.io/badge/Three.js-WebGL-blue?style=flat-square&logo=three.js" alt="Three.js"/>
+    </a>
+    <a href="https://github.com/developtheweb/stevenmilanese-com/blob/main/LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT"/>
+    </a>
+  </p>
+</div>
+
+## 🔄 Redirect Information
+
+This repository was previously used for a personal portfolio site but has been replaced by a new, more advanced website. Visitors to this GitHub Pages site will be automatically redirected to:
+
+[https://stevenmilanese.com](https://stevenmilanese.com)
+
+## 🚀 New Site Features
+
+The new site includes:
+
+- Advanced 3D visualizations and WebGL effects
+- Space-themed design with parallax effects
+- Interactive components and animations
+- Ghost CMS-powered blog with advanced content features
+- Browser compatibility detection with graceful degradation
+- Mobile-responsive design
+- And much more!
+
+## 👨‍💻 About Steven Milanese
+
+<div align="center">
+  <a href="https://stevenmilanese.com">
+    <img src="https://stevenmilanese.com/StevenMilanese-ghost-logo.png" alt="Reverend Steven Milanese" width="150px" style="border-radius: 50%;"/>
+  </a>
+</div>
+
+Reverend Steven Milanese is a Systems Alchemist specializing in transforming complex challenges into inspired technological solutions. By seamlessly integrating Artificial Intelligence with cutting-edge development practices, he creates systems that push the boundaries of what's possible.
+
+His expertise spans multiple domains:
+- **Theoretical Physics & Mathematics**: Applying complex mathematical models to practical problem-solving
+- **Artificial Intelligence**: Designing and implementing advanced AI systems
+- **Systems Architecture**: Creating resilient, scalable infrastructure
+- **Spiritual Technology**: Bridging technology and consciousness
+
+## 📞 Contact
+
+For more information, please visit the new website at [stevenmilanese.com](https://stevenmilanese.com).
+
 ---
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
 
----
-```
-
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+<div align="center">
+  <p>
+    <strong>Steven Milanese</strong><br/>
+    Systems Alchemist<br/>
+    <a href="https://stevenmilanese.com">stevenmilanese.com</a>
+  </p>
+  <p>© 2023-2025 Steven Milanese. All Rights Reserved.</p>
+</div>
