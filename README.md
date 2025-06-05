@@ -256,10 +256,15 @@ Creating digital experiences that don't just showcase technical skill, but invit
     <em>"Where Code Meets Consciousness"</em>
   </p>
   
-  <h4>🌟 Awards & Recognition Ready</h4>
+  <h4>🌟 Help This Portfolio Get Recognition</h4>
   <p>
-    FWA • Awwwards • CSS Design Awards<br/>
-    The Webby Awards • SiteInspire
+    If you find this portfolio inspiring, consider nominating it:<br/>
+    <a href="https://thefwa.com/submit-site/">FWA</a> • 
+    <a href="https://www.awwwards.com/submit/">Awwwards</a> • 
+    <a href="https://www.cssdesignawards.com/submit-your-site">CSS Design Awards</a><br/>
+    <a href="https://vote.webbyawards.com/">The Webby Awards</a> • 
+    <a href="https://www.siteinspire.com/submit">SiteInspire</a><br/>
+    <em>Your support helps recognize innovation in web development</em>
   </p>
   
   <p>
